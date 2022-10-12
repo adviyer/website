@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/home              /
+/spotify  /https://open.spotify.com/user/31y27nage6vzqah6g2lhoafeifom?si=71dd10deeaed4c7b
+
+
